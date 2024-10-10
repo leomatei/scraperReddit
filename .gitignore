@@ -4,3 +4,4 @@ node_modules/
 # JSON files to ignore
 scrape_results.json
 package-lock.json
+.env
